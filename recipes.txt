@@ -6,3 +6,8 @@ rabdi
 panner tikka
 pista
 chicken kabab
+
+pizza
+beans
+idli
+
